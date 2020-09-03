@@ -7,6 +7,6 @@ import (
 )
 
 func PrintItHome() {
-	log.Info("hi ItHome")
+	log.Info("hi chiuminghan")
 	ironman.PrintIronMan()
 }
